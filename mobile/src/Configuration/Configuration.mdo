@@ -117,6 +117,7 @@
   <catalogs>Catalog.ПодключаемоеОборудование</catalogs>
   <catalogs>Catalog.РабочиеМеста</catalogs>
   <catalogs>Catalog.ИнформационныеБазы</catalogs>
+  <catalogs>Catalog.тест</catalogs>
   <enums>Enum.ВидДокументаУдостоверяющегоЛичностьККТ</enums>
   <enums>Enum.МераКоличестваПредметаРасчетаККТ</enums>
   <enums>Enum.ОтветОИСМОСтатусеТовара</enums>
