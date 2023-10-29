@@ -10,7 +10,7 @@
   <name>РабочиеМеста</name>
   <synonym>
     <key>ru</key>
-    <value>Рабочие места</value>
+    <value>Рабочие места1</value>
   </synonym>
   <inputByString>Catalog.РабочиеМеста.StandardAttribute.Description</inputByString>
   <inputByString>Catalog.РабочиеМеста.StandardAttribute.Code</inputByString>
