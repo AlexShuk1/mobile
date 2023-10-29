@@ -5,6 +5,7 @@
     <key>ru</key>
     <value>Подключаемое оборудование</value>
   </synonym>
+  <comment>Комментарий3</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <content>Catalog.ПодключаемоеОборудование</content>
   <content>Catalog.ДрайверыОборудования</content>
