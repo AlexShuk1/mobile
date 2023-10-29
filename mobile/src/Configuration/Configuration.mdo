@@ -112,6 +112,7 @@
   <commonForms>CommonForm.ФормаВводаШтрихкода</commonForms>
   <commonForms>CommonForm.ФормаСписок</commonForms>
   <commonForms>CommonForm.ФормаДействие</commonForms>
+  <commonForms>CommonForm.Форма</commonForms>
   <catalogs>Catalog.ДрайверыОборудования</catalogs>
   <catalogs>Catalog.ПодключаемоеОборудование</catalogs>
   <catalogs>Catalog.РабочиеМеста</catalogs>
