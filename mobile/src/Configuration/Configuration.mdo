@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d3c75056-c156-4eaf-a0e7-18a554d6e4f2">
+  <name>SourceSoft</name>
+  <synonym>
+    <key>ru</key>
+    <value>Source soft</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="4a764faf-7fb9-48f6-a673-ddc191dd94e5"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="952871bf-d554-46c3-b6c2-450346b6afa1"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="69f64571-db5c-44c9-8495-2812bdf36c57"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="152bc3b3-06d5-4b1d-922c-310c9a608056"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="71122997-f930-4db0-8f40-f9ea066998a4"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="53e7027d-1058-440e-9173-040344004e80"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="eb564bfb-9507-4344-821b-87ba39e4a8f2"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>MobileDevice</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor>Source Soft</vendor>
+  <version>1.1.11</version>
+  <updateCatalogAddress>http://downloads.v8.1c.ru/tmplts/</updateCatalogAddress>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>PushNotifications</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>LocalNotifications</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>InstallPackages</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
+  <compatibilityMode>8.3.21</compatibilityMode>
+  <languages uuid="faa97a62-6791-46df-a9a1-5a5616a1ef9d">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.ДемоРаботаСОборудованием</subsystems>
+  <subsystems>Subsystem.БазоваяФункциональность</subsystems>
+  <subsystems>Subsystem.ПодключаемоеОборудование</subsystems>
+  <sessionParameters>SessionParameter.РабочееМестоКлиента</sessionParameters>
+  <sessionParameters>SessionParameter.ТекущееПодключение</sessionParameters>
+  <sessionParameters>SessionParameter.ШтрихкодСотрудника</sessionParameters>
+  <roles>Role.ПолныеПрава</roles>
+  <commonTemplates>CommonTemplate.Драйвер1СДисплейПокупателя</commonTemplates>
+  <commonTemplates>CommonTemplate.Драйвер1СПринтерЧеков</commonTemplates>
+  <commonTemplates>CommonTemplate.Драйвер1ССканерШтрихкода</commonTemplates>
+  <commonTemplates>CommonTemplate.Драйвер1СУстройствоВвода</commonTemplates>
+  <commonTemplates>CommonTemplate.Драйвер1СЭквайринговыеТерминалыСбербанк2х</commonTemplates>
+  <commonTemplates>CommonTemplate.Драйвер1СЭлектронныеВесы</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверIboxProПлатежнаяСистема</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверInpasПлатежнаяСистема</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверMERTECHСканерШтрихкода</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверRightScanККТ54ФЗ</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверRightScanУстройстваВвода</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверRightScanУстройствоПечати</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверScanPortУстройстваВвода</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверUCSEFTPOSЭквайринговыеТерминалы</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверАЗУРККТ54ФЗФФД12</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверАЗУРПлатежнаяСистема</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверАТОЛККТ54ФЗ10X</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверАТОЛККТ54ФЗ10XФФД12</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверАТОЛСканерШтрихкода</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверВерсияТККТ54ФЗ</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверКлеверенсСканерШтрихкода</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверСканкодСканерШтрихкода</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверСканситиУстройстваВвода</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверШтрихМККТ54ФЗ</commonTemplates>
+  <commonTemplates>CommonTemplate.ДрайверШтрихМККТ54ФЗ4ФФД12NG</commonTemplates>
+  <commonTemplates>CommonTemplate.КодВидаНоменклатурнойКлассификации</commonTemplates>
+  <commonTemplates>CommonTemplate.КомпонентаПечатиШтрихкодов</commonTemplates>
+  <commonModules>CommonModule.ГенерацияШтрихкодаКлиент</commonModules>
+  <commonModules>CommonModule.МенеджерОборудованияВнешняяКомпонентаКлиент</commonModules>
+  <commonModules>CommonModule.МенеджерОборудованияВызовСервера</commonModules>
+  <commonModules>CommonModule.МенеджерОборудованияВызовСервераПереопределяемый</commonModules>
+  <commonModules>CommonModule.МенеджерОборудованияИнтеграционноеПриложениеКлиент</commonModules>
+  <commonModules>CommonModule.МенеджерОборудованияКлиент</commonModules>
+  <commonModules>CommonModule.МенеджерОборудованияКлиентПереопределяемый</commonModules>
+  <commonModules>CommonModule.МенеджерОборудованияКлиентПовтИсп</commonModules>
+  <commonModules>CommonModule.МенеджерОборудованияКлиентСервер</commonModules>
+  <commonModules>CommonModule.МенеджерОборудованияМаркировкаВызовСервера</commonModules>
+  <commonModules>CommonModule.МенеджерОборудованияМаркировкаКлиентСервер</commonModules>
+  <commonModules>CommonModule.МенеджерОборудованияМаркировкаКлиентСерверПовтИсп</commonModules>
+  <commonModules>CommonModule.ОбновлениеИнформационнойБазыБПО</commonModules>
+  <commonModules>CommonModule.СтроковыеФункцииКлиентСервер</commonModules>
+  <commonModules>CommonModule.ФорматноЛогическийКонтрольВызовСервера</commonModules>
+  <commonModules>CommonModule.ФорматноЛогическийКонтрольКлиентСервер</commonModules>
+  <commonModules>CommonModule.ФорматноЛогическийКонтрольКлиентСерверПереопределяемый</commonModules>
+  <commonModules>CommonModule.SS_СлужебныйКлиентСервер</commonModules>
+  <commonModules>CommonModule.SS_СлужебныйСервер</commonModules>
+  <commonModules>CommonModule.SS_РаботаСФормами</commonModules>
+  <commonForms>CommonForm.КодВидаНоменклатурнойКлассификации</commonForms>
+  <commonForms>CommonForm.Начало</commonForms>
+  <commonForms>CommonForm.ФормаВводаШтрихкода</commonForms>
+  <commonForms>CommonForm.ФормаСписок</commonForms>
+  <commonForms>CommonForm.ФормаДействие</commonForms>
+  <catalogs>Catalog.ДрайверыОборудования</catalogs>
+  <catalogs>Catalog.ПодключаемоеОборудование</catalogs>
+  <catalogs>Catalog.РабочиеМеста</catalogs>
+  <catalogs>Catalog.ИнформационныеБазы</catalogs>
+  <enums>Enum.ВидДокументаУдостоверяющегоЛичностьККТ</enums>
+  <enums>Enum.МераКоличестваПредметаРасчетаККТ</enums>
+  <enums>Enum.ОтветОИСМОСтатусеТовара</enums>
+  <enums>Enum.ПланируемыйСтатусМаркируемогоТовара</enums>
+  <enums>Enum.ПризнакиАгента</enums>
+  <enums>Enum.ПризнакиПредметаРасчета</enums>
+  <enums>Enum.ПризнакиСпособаРасчета</enums>
+  <enums>Enum.ПричиныИзмененияСведенийККТ</enums>
+  <enums>Enum.ПричиныПеререгистрацииФН</enums>
+  <enums>Enum.СпособыФорматноЛогическогоКонтроля</enums>
+  <enums>Enum.СтатусОбработкиЗапросаКМ</enums>
+  <enums>Enum.СтатусРезультатаЗапросаКМ</enums>
+  <enums>Enum.ТипыИдентификаторовТовараККТ</enums>
+  <enums>Enum.ТипыМаркировкиККТ</enums>
+  <enums>Enum.ТипыОплатыККТ</enums>
+  <enums>Enum.ТипыПодключаемогоОборудования</enums>
+  <enums>Enum.ТипыРасчетаДенежнымиСредствами</enums>
+  <enums>Enum.ТипыСистемНалогообложенияККТ</enums>
+  <enums>Enum.ТипыФискальныхДокументовККТ</enums>
+  <dataProcessors>DataProcessor.ДемоТестированиеОборудования</dataProcessors>
+  <dataProcessors>DataProcessor.ДемоПечатьШтрихкода</dataProcessors>
+</mdclass:Configuration>
