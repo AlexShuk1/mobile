@@ -5,7 +5,6 @@
     <key>ru</key>
     <value>Базовая функциональность</value>
   </synonym>
-  <comment>Комментарий</comment>
   <content>Role.ПолныеПрава</content>
   <content>CommonModule.СтроковыеФункцииКлиентСервер</content>
 </mdclass:Subsystem>

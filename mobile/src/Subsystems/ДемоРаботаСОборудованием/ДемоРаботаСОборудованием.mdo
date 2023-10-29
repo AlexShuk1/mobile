@@ -5,7 +5,6 @@
     <key>ru</key>
     <value>Демо работа с оборудованием</value>
   </synonym>
-  <comment>Комментарий 2</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <content>DataProcessor.ДемоТестированиеОборудования</content>
   <content>CommonForm.Начало</content>
