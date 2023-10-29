@@ -3,7 +3,7 @@
   <name>SS_СлужебныйСервер</name>
   <synonym>
     <key>ru</key>
-    <value>Служебный сервер 1</value>
+    <value>Служебный сервер</value>
   </synonym>
   <server>true</server>
   <serverCall>true</serverCall>
